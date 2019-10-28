@@ -1,6 +1,7 @@
 # Code Style Assignment
 
-## This was an assignment from a previous semester. You are given the solution (with bad code style). It is your job to fix the solution so that it still passes all the JUnit tests and abides by good code style. You can use the code style guidelines on Sakai as a reference for helping you. The following is the assignment description to help you get a better idea of what's going on
+This was an assignment from a previous semester. You are given the solution (with bad code style). It is your job to fix the solution so that it still passes all the JUnit tests and abides by good code style. You can use the code style guidelines on Sakai as a reference for helping you. Make sure you submit your assignment on Gradescope! remember you need above a 7/10 for full points.
+The following is the assignment description to help you get a better idea of what's going on:
 
 # Write Up
 
