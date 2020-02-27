@@ -1,17 +1,17 @@
 # Code Style Assignment
 
-This was an assignment from a previous semester. You are given the solution (with bad code style). It is your job to fix the solution so that it still passes all the JUnit tests and abides by good code style. You can use the code style guidelines on Sakai as a reference for helping you. Make sure you submit your assignment on Gradescope! remember you need above a 7/10 for full points.
+This was an assignment from a previous semester. You are given the solution (with bad code style). It is your job to fix the solution so that it still passes all the JUnit tests and abides by good code style. You can use the code style guidelines on Sakai as a reference for helping you. Make sure you submit your assignment on Gradescope! remember you need above a 7/10 for full points. You will have to rewrite some parts of the code and simplify methods and expressions, but you shouldn't have to worry about changing any core logic
 The following is the assignment description to help you get a better idea of what's going on:
 
-# Write Up
+## Write Up
 
-## Basic objects
+### Basic objects
 
 This assignment will require you to create a few basic classes that implement an interface. The interfaces
 are provided in the skeleton code in this repository and represent a standard playing card, a standard deck of 52 cards, 
 and a poker hand (i.e., a collection of 5 cards that can be categorized by the rank/suit relationships of the cards).
 
-## Novice: CardImpl as implementation of Card
+### Novice: CardImpl as implementation of Card
 
 Your implementation of the Card interface should be called CardImpl. 
 
@@ -30,7 +30,7 @@ CardImpl should provide a constructor with the following declaration:
 public CardImpl(int rank, Card.Suit suite)
 ```
 
-## Adept: PokerHandImpl as implementation of PokerHand
+### Adept: PokerHandImpl as implementation of PokerHand
 
 Your implementation of the PokerHand interface should be called PokerHandImpl.
 
