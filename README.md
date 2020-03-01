@@ -1,7 +1,7 @@
 # Code Style Assignment
 
 This was an assignment from a previous semester. You are given the solution (with bad code style). This code is 100% working, and we have provided JUnit tests that prove that, your job is to make this code readable and clean up any instances of bad code style. You can use the code style guidelines on Sakai as a reference for helping you, but you will have to make changes that extend beyond that document. Make sure you submit your assignment on Gradescope! remember you need above a 7/10 for full points. You will have to rewrite some parts of the code and simplify methods and expressions, but you shouldn't have to worry about changing any core logic.
-The following is the assignment description for reference on how the c:
+The following is the assignment description for reference on how the program works:
 
 ## Write Up
 
